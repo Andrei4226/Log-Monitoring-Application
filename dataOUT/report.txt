@@ -1,0 +1,21 @@
+ERROR: Description Job: scheduled task 051, PID: 39547, Duration(minutes): 11.48
+ERROR: Description Job: scheduled task 515, PID: 45135, Duration(minutes): 12.38
+WARNING: Description Job: scheduled task 074, PID: 71766, Duration(minutes): 5.78
+ERROR: Description Job: background job wmy, PID: 81258, Duration(minutes): 14.77
+WARNING: Description Job: scheduled task 268, PID: 87228, Duration(minutes): 9.47
+WARNING: Description Job: scheduled task 811, PID: 50295, Duration(minutes): 6.58
+WARNING: Description Job: scheduled task 294, PID: 27222, Duration(minutes): 6.13
+WARNING: Description Job: scheduled task 794, PID: 87570, Duration(minutes): 7.88
+WARNING: Description Job: background job sqm, PID: 99672, Duration(minutes): 5.22
+WARNING: Description Job: background job xfg, PID: 86716, Duration(minutes): 5.57
+ERROR: Description Job: scheduled task 004, PID: 22003, Duration(minutes): 11.22
+ERROR: Description Job: scheduled task 064, PID: 85742, Duration(minutes): 12.28
+WARNING: Description Job: scheduled task 746, PID: 98746, Duration(minutes): 7.28
+ERROR: Description Job: scheduled task 460, PID: 39860, Duration(minutes): 19.87
+ERROR: Description Job: background job tqc, PID: 52532, Duration(minutes): 13.88
+ERROR: Description Job: scheduled task 936, PID: 62401, Duration(minutes): 10.40
+ERROR: Description Job: scheduled task 374, PID: 23703, Duration(minutes): 13.43
+ERROR: Description Job: scheduled task 182, PID: 70808, Duration(minutes): 33.72
+WARNING: Description Job: scheduled task 672, PID: 24482, Duration(minutes): 8.60
+Unfinished Job: Description: scheduled task 333, PID: 72029, Started at: 12:03:20
+Unfinished Job: Description: scheduled task 016, PID: 72897, Started at: 12:12:27
